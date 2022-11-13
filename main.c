@@ -15,5 +15,6 @@ int main(){
     //reverse("Bonjour");
     char str[]="Bonjour";
     printf("%c",reverse(str));
+    int test();
     return 0;
 }
