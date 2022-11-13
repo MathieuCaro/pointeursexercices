@@ -17,9 +17,7 @@ int add_two_int( int *a, int *b){
     *a = somme;
     printf("a = %d et b = %d\n", *a, *b);
     return 0;
-
 }
-// cc
 
 int equal_zero(int tab[], int size){
     int *pointeur;
