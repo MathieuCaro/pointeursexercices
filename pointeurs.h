@@ -11,6 +11,7 @@ int swap_array(int tab[], int tab2[], int size);
 
 int length_string(char string[]);
 char reverse(char tab[]);
+int test()
 
 
 

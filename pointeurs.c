@@ -19,7 +19,10 @@ int add_two_int( int *a, int *b){
     return 0;
 
 }
-// cc
+
+int test(){
+    printf("Test");
+}
 
 int equal_zero(int tab[], int size){
     int *pointeur;
